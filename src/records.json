@@ -1,0 +1,89 @@
+[
+    {
+       "id": 1,
+       "image": "https://randomuser.me/api/portraits/women/86.jpg",
+       "name": "Himani Kinkar",
+       "number": 1234356789,
+       "tech": [
+        {
+            "name": "javascript, Node.js,React"
+        }
+       ]
+    },
+    {
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/women/71.jpg",
+        "name": "Rupali Kinkar",
+        "number": 123456789,
+        "tech": [
+            {
+                "name": "javascript, Node.js,React"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/women/72.jpg",
+        "name": "Vedika Agrwal",
+        "number":1234356789,
+        "tech": [
+            {
+                "name": "javascript, Node.js,React"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://randomuser.me/api/portraits/women/31.jpg",
+        "name": "Harshita",
+        "number": 1234567876,
+        "tech":[
+            {
+                "name": "javascript, Node.js,React"
+            }
+        ]
+    },{
+        "id": 5,
+        "image": "https://randomuser.me/api/portraits/men/20.jpg",
+        "name": "Aman",
+        "number": 1234356789,
+        "tech": [
+         {
+             "name": "javascript, Node.js,React"
+         }
+        ]
+     },
+     {
+         "id": 6,
+         "image": "https://randomuser.me/api/portraits/men/67.jpg",
+         "name": "Prajal",
+         "number": 123456789,
+         "tech": [
+             {
+                 "name": "javascript, Node.js,React"
+             }
+         ]
+     },
+     {
+         "id": 7,
+         "image": "https://randomuser.me/api/portraits/women/26.jpg",
+         "name": "Awantika Agrwal",
+         "number":1234356789,
+         "tech": [
+             {
+                 "name": "javascript, Node.js,React"
+             }
+         ]
+     },
+     {
+         "id": 8,
+         "image": "https://randomuser.me/api/portraits/women/31.jpg",
+         "name": "Harshita",
+         "number": 1234567876,
+         "tech":[
+             {
+                 "name": "javascript, Node.js,React"
+             }
+         ]
+     }
+]

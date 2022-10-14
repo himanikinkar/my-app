@@ -2,7 +2,12 @@
 
 # dependencies
 /node_modules
+/App.test.js
 /.pnp
+/logo.svg
+/newfile.html
+/reportWebVitals.js
+/tailwind.config.js
 .pnp.js
 
 # testing
